@@ -1,11 +1,14 @@
 Olá meu nome é Eliel Fernandes!
-<br><br>Contatos:
+
+![3LieLs GitHub stats](https://github-readme-stats.vercel.app/api?username=3LieLs&show_icons=true&theme=radical)
+
+Contatos:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-<br>Redes Sociais:
+Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliel_fernandes55/)
 
@@ -26,5 +29,3 @@ Especialidades em:
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3LieLs&layout=pie)](https://github.com/3LieLs/github-readme-stats)
-
-![3LieLs GitHub stats](https://github-readme-stats.vercel.app/api?username=3LieLs&show_icons=true&theme=radical)
