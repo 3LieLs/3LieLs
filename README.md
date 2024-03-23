@@ -24,3 +24,7 @@ Especialidades em:
     src=" https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3LieLs&layout=pie)](https://github.com/3LieLs/github-readme-stats)
+
+![3LieLs GitHub stats](https://github-readme-stats.vercel.app/api?username=3LieLs&show_icons=true&theme=radical)
