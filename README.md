@@ -12,7 +12,7 @@ Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliel_fernandes55/)
 
-Especialidades em:
+Tecnologias que eu uso:
 
 <div style="display: inline_block">
     <img align="center" alt="HTML5"
