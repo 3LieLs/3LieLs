@@ -28,4 +28,4 @@ Tecnologias que eu uso:
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3LieLs&layout=pie)](https://github.com/3LieLs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3LieLs&layout=pie&theme=radical)](https://github.com/3LieLs/github-readme-stats)
